@@ -11,3 +11,6 @@
 
 Desenvolver habilidades práticas com APIs.
 
+## 🏆 Agradecimentos
+
+[TapTap](https://www.youtube.com/@TapTap_196)
