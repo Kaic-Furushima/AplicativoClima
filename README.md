@@ -9,5 +9,5 @@
 
 ## ✨ Motivação
 
-Desenvolver habilidades práticas APIs.
+Desenvolver habilidades práticas com APIs.
 
